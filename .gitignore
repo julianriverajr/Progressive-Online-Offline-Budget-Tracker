@@ -105,3 +105,4 @@ dist
 
 # User Added
 .DS_Store
+package-lock.json
